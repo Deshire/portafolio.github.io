@@ -115,14 +115,13 @@ html, body {
     height: 8%;
 }
 .social {
-    margin-left: 38%;
+   text-align: center;
 }
 .social a {
     font-size: 3em;
 }
 .social a i {
-    padding-top: 2%;
-    padding-left: 5%;
+ 
     color: #536173;
 }
 footer {
